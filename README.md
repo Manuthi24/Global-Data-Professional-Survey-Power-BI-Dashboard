@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Power BI Dashboard.png" alt="Global Data Professional Survey Dashboard" width="800"/>
+  <img src="assets/Power BI Dashboard.jpeg" alt="Global Data Professional Survey Dashboard" width="800"/>
 </p>
 
 ---
