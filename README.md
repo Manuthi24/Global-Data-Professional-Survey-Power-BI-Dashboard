@@ -1,3 +1,12 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20%26%20Visualization-orange)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-brightgreen)
+![Survey Data](https://img.shields.io/badge/Survey‑Data‑Insights-blue)
+![Analytics](https://img.shields.io/badge/Analytics‑Insights%20Driven-blueviolet)
+![Business Intelligence](https://img.shields.io/badge/Business‑Intelligence-important)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type‑Portfolio%20Project-important)
+
+
 <p align="center">
   <img src="assests/Power BI Dashboard.jpeg" alt="Global Data Professional Survey Dashboard" width="800"/>
 </p>
@@ -5,6 +14,7 @@
 ---
 
 ## 📌 Project Overview
+
 This project provides a **comprehensive analysis of the data professional industry** based on real-world survey data. Using **Microsoft Power BI**, it demonstrates an **end-to-end workflow**: from data ingestion and transformation via Power Query, to the creation of an **interactive dashboard** visualizing key career metrics.
 
 The dataset includes responses from **630+ data professionals** collected via social media platforms such as LinkedIn and Twitter.
